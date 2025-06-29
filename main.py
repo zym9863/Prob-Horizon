@@ -67,11 +67,6 @@ def main():
 
     # 导航菜单
     with st.sidebar:
-        st.image("https://via.placeholder.com/200x100/667eea/ffffff?text=概率视界",
-                caption="Probability Horizon")
-
-        st.markdown("---")
-
         page = st.selectbox(
             "🧭 选择功能模块",
             options=[
