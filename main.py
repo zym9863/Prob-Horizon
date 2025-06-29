@@ -47,10 +47,12 @@ def main():
         border-radius: 10px;
         border-left: 4px solid #667eea;
         margin: 1rem 0;
+        color: #333; /* 设置文字颜色以保证对比度 */
     }
 
     .stSelectbox > div > div {
         background-color: #f0f2f6;
+        color: #333;
     }
     </style>
     """, unsafe_allow_html=True)
