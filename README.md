@@ -1,5 +1,7 @@
 # 🎲 概率视界 - Probability Horizon
 
+[English README](README_EN.md)
+
 一个交互式概率论学习工具，通过可视化和模拟帮助用户理解概率论的核心概念。
 
 ## ✨ 主要功能
